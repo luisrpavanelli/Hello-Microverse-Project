@@ -15,14 +15,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -62,25 +54,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- View -->
-
-## 🚀 View <a name="View"></a> https://luisrpavanelli.github.io/luisrpavanelli-Microverse-Project.github.io/
-
-[Click here to view]: https://luisrpavanelli.github.io/luisrpavanelli-Microverse-Project.github.io/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-This is the easiest app to use; all you have to do is click on the live demo to preview it or clone it to have your own copy.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **Luis Renan Pavanello**
 
