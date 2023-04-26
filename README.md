@@ -54,9 +54,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- View -->
 
-## 🚀 View <a name="View"></a> https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/headline-helloproject/index.html
+## 🚀 View <a name="View"></a> https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/headline-helloproject/index.html
 
-[Click here to view]: https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/headline-helloproject/index.html
+[Click here to view]: https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/headline-helloproject/index.html
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
