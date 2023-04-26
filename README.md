@@ -48,7 +48,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **fast to load**
-- **nice blue color**
+- **nice red color**
 - **easy to read**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
