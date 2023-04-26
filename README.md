@@ -17,7 +17,6 @@
     - [Key Features](#key-features)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -75,16 +74,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-We welcome contributions, issues, and feature requests!
-
-Please feel free to look over the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -105,6 +94,6 @@ Thank you for the opportunity to learn and grow with Microverse.org. I appreciat
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/headline-helloproject/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
